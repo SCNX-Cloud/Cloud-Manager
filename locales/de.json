@@ -1,0 +1,19 @@
+{
+  "help": {
+    "title": "Alle Befehle",
+    "description": "Echtzeit-Daten von SCNX Cloud.",
+    "stats_commands": "Statistiken",
+    "stats_ping": "Ping",
+    "list_title": "Befehle Übersicht",
+    "no_description": "Keine Beschreibung verfügbar."
+  },
+  "commands": {
+    "help": "Zeigt alle Befehle an",
+    "ping": "Zeigt den Ping vom Bot an",
+    "debug": "Zeigt die Struktur der Interaktion an",
+    "user": "Zeigt Informationen über einen Nutzer"
+  },
+  "ping": {
+    "title": "{clientName}’s Ping"
+  }
+}

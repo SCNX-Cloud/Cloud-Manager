@@ -1,0 +1,20 @@
+{
+    "module": "socials",
+    "buildin": true,
+    "author": {
+        "id": ,
+        "name": "aqua_jean_s",
+        "link": ""
+    },
+    "commands": [],
+    "events": [],
+    "models": [],
+    "name": {
+        "en": "",
+        "de": "Benachrichtigswerkzeug"
+    },
+    "description": {
+        "en": "",
+        "de": "Erhalte Benachrichtigungen beim Starren vom GitHub repo direkt auf Discord."
+    }
+}
